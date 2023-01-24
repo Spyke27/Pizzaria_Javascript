@@ -1,26 +1,26 @@
-<h1 align="center">Clima App</h1>
+<h1 align="center">Pizzaria Zé</h1>
 
 ## 🚀 Principais Tecnologias Usadas 
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript Puro</li>  
+    <li>JavaScript</li>  
 </ul>
 
 ## Projeto
 
-- Aplicação com foco em consumo de outras APIs para trazer as condições climáticas de qualquer cidade do mundo, com icones acompanhando a informação e as bandeiras dos respectivos países.
+- Uma pizzaria online, onde o cliente tem acesso aos produtos já cadastrados e consegue simular uma compra através do carrinho funcional.
 
-## APIs Utilizadas:
+## Características:
 <ul>
-    <li>OpenWeatherMap - Informações do clima</li>
-    <li>CDN font-awesome - Ícones</li>
-    <li>CountryFlagsApi - Bandeiras dos Países</li>  
+    <li>Design agradável</li>
+    <li>Carrinho 100% funcional</li>
+    <li>Modal dos produtos para selecionar</li>  
 </ul>
 
  ## Projeto rodando:
  
- 🔰 Link: <a href="https://weathernetapp.netlify.app/">weathernetapp.netlify.app</a>
+ 🔰 Link: <a href="https://pizzaria-ze.netlify.app/">www.pizzariaze.com.br</a>
 ## Resultado 💻
  <hr>
  <div style="display: flex;">
